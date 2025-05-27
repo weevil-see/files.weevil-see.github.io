@@ -32,4 +32,4 @@ The date of journals can be mistaken, since year of publication per volume and i
 
 A disambiguated and corrected version of the citations exists in the literature databases of the DEI [=[Senckenberg Deutsches Entomologisches Institut, Müncheberg](https://www.senckenberg.de/en/institutes/senckenberg-german-entomological-institute/)] which also include the catalogs from the “Index Literaturae Entomologicae, Series I.” However, creating a full searchable database of the complete text was not the goal here.
 
-In this directory, you will find compiled files of all parts for each subfamily (e.g., Brachyderinae I, II, III and Index) grouped together into a single file, despite different parts, authors, and years.
+In **./Junk_Concatenated**, you will find compiled files of all parts for each subfamily (e.g., Brachyderinae I, II, III and Index) grouped together into a single file, despite different parts, authors, and years.
