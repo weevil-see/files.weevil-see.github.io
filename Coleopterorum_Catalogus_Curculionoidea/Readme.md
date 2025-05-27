@@ -7,4 +7,4 @@ The following is a translation of the original "readme" by Lutz Behne, a file wh
 ## (Curculionoidea, Vol. 27-30)
 
 ### Overview
-In two directories, every catalog from this series (including supplements) have been stored as searchable PDF documents.
+In two directories, every catalog from this series (including supplements) have been stored as searchable PDF documents. "Searchable" means that the extracted [recognized using OCR] text
