@@ -8,9 +8,9 @@ In short:
   - Schönherri -> schoenherri; Nordenskiöldi -> nordenskioldi  
 - Historically, eponyms and patronyms (names honoring a person or place) were capitalized, but modern species names are always lowercase. This was not corrected consistently, though search functions usually ignore capitalization.
 
-There are two directories:
-- ./Junk_Concatenated (some Subfamilies are spread in several parts, those are concatenated into a single file here. Files are named after taxon only)
-- ./Junk_Catalog (files are numbered after the original "pars" number)
+There are two directories, which differ only in how the files are organized:
+- **./Junk_Concatenated** (some Subfamilies are spread in several parts, those are concatenated into a single file here. Files are named after taxon only)
+- **./Junk_Catalog** (files are numbered after the original "pars" number)
 
 The following is a translation of the original "readme" by Lutz Behne, a file which is named "Junk_Curculionoidea_Datierung_Kataloge.pdf" and was last modified 2006/03/27.
 
