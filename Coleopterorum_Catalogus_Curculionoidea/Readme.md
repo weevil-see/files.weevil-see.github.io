@@ -3,6 +3,7 @@ This directory contains scans of the "Coleopterorum Catalogus" which where manua
 **This is very important for everyone who, like Lutz Behne and me, is using a local search engine to access literature. When we search for a scientific name, the relevant files can only be found if they contain the name exactly as we search for it!**
 
 In short:
+- Scolytinae and Platypodinae are missing
 - He replaced slavic characters with simplified forms
 - He replaced umlauts depending on the origin of names: from German to oe, ae, ue; for non-German names to o, a, u.
   - Schönherri -> schoenherri; Nordenskiöldi -> nordenskioldi  
