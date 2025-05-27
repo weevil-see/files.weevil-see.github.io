@@ -5,9 +5,9 @@ This directory contains scans of the "Coleopterorum Catalogus" which where manua
 In short:
 - Scolytinae and Platypodinae are missing
 - He replaced slavic characters with simplified forms
-- He replaced umlauts depending on the origin of names: from German to oe, ae, ue; for non-German names to o, a, u.
+- He replaced umlauts depending on the origin of names: from German to oe, ae, ue; for non-German names to o, a, u
   - Schönherri -> schoenherri; Nordenskiöldi -> nordenskioldi  
-- Historically, eponyms and patronyms (names honoring a person or place) were capitalized, but modern species names are always lowercase. This was not corrected consistently, though search functions usually ignore capitalization.
+- Historically, eponyms and patronyms (names honoring a person or place) were capitalized, but modern species names are always lowercase. This was not corrected consistently: when searching, make sure that capitalization is ignored
 
 There are two directories, which differ only in how the files are organized:
 - **./Junk_Concatenated** (some Subfamilies are spread in several parts, those are concatenated into a single file here. Files are named after taxon only)
