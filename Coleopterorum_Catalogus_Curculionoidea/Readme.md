@@ -1,6 +1,6 @@
 # About (WORK IN PROGRESS)
 This directory contains scans of the "Coleopterorum Catalogus", manually curated by Lutz Behne (25.4.1956 – 25.8.2024). When he scanned Literature, he took great care that every character in scientific names is correctly recognized, and if necessary he corrected them. Thus, he ensured that his files are reliably searchable for scientific names.\
-**This is very important for everyone who, like Lutz Behne and me, is using a local search engine to access literature. When we search for a scientific name, the relevant files can only be found if they contain the name exactly as we search for it!**
+**This is very important for everyone who is searching files, either directly or in a whole directory (to find literature containing that name). When we search for a scientific name, the relevant files can only be found if they contain the name exactly as we search for it!**
 
 In short:
 - Scolytinae and Platypodinae are missing
