@@ -1,5 +1,5 @@
 # About (WORK IN PROGRESS)
-This directory contains scans of the "Coleopterorum Catalogus" which where manually curated by Lutz Behne (25.4.1956 – 25.8.2024). When he scanned Literature, he took great care that every character in scientific names is correctly recognized, and if necessary he corrected them. Thus, he ensured that his files are reliably searchable for scientific names.\
+This directory contains scans of the "Coleopterorum Catalogus", manually curated by Lutz Behne (25.4.1956 – 25.8.2024). When he scanned Literature, he took great care that every character in scientific names is correctly recognized, and if necessary he corrected them. Thus, he ensured that his files are reliably searchable for scientific names.\
 **This is very important for everyone who, like Lutz Behne and me, is using a local search engine to access literature. When we search for a scientific name, the relevant files can only be found if they contain the name exactly as we search for it!**
 
 In short:
@@ -13,7 +13,7 @@ There are two directories, which differ only in how the files are organized:
 - **./Junk_Concatenated** (some Subfamilies are spread in several parts, those are concatenated into a single file here. Files are named after taxon only)
 - **./Junk_Catalog** (files are numbered after the original "pars" number)
 
-The following is a translation of the original "readme" by Lutz Behne, a file which is named "Junk_Curculionoidea_Datierung_Kataloge.pdf" and was last modified 2006/03/27.
+The following is a translation of the original "readme" by Lutz Behne, a file which is named "Junk_Curculionoidea_Datierung_Kataloge.pdf" and was last modified 2006/03/27. I only changed minor details (like directory names). As I did not have the **./Junk_Concatenated** directory, I recreated it.
 
 # Coleopterorum Catalogus
 ## (Curculionoidea, Vol. 27-30)
