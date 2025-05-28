@@ -10,7 +10,7 @@ In short:
 - Historically, eponyms and patronyms (names honoring a person or place) were capitalized, but modern species names are always lowercase. This was not corrected consistently: when searching, make sure that capitalization is ignored
 
 There are two directories, which differ only in how the files are organized:
-- **./Junk_Concatenated** (some Subfamilies are spread in several parts, those are concatenated into a single file here. Files are named after taxon only)
+- **./Junk_Concatenated** (some Subfamilies are spread in several parts, those are concatenated into a single file here. Files are named after taxon only. There was an index to this directory in Behne's files, but I had to recreate it as I don't have it)
 - **./Junk_Catalog** (files are numbered after the original "pars" number)
 
 The following is a translation of the original "readme" by Lutz Behne, a file which is named "Junk_Curculionoidea_Datierung_Kataloge.pdf" and was last modified 2006/03/27. I only changed minor details (like directory names). As I did not have the **./Junk_Concatenated** directory, I recreated it.
