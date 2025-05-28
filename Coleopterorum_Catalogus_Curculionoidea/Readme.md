@@ -3,7 +3,7 @@ This directory contains scans of the "Coleopterorum Catalogus", manually curated
 His work is also providing some overview on the Coleopterorum Catalogus: I did not find a full list of the issues (called "pars") dealing with Curculionoidea elsewhere. It's difficult to get an overview, as not everything is digitized on Biodiversity Heritage Library.
 
 In short:
-- Scolytinae and Platypodinae are missing
+- Scolytinae and Platypodinae are missing here
 - He replaced slavic characters with simplified forms
 - He replaced umlauts depending on the origin of names: from German to oe, ae, ue; for non-German names to o, a, u
   - Schönherri -> schoenherri; Nordenskiöldi -> nordenskioldi  
