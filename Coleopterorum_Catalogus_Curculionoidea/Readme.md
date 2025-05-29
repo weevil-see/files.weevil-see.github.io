@@ -1,4 +1,4 @@
-# About (WORK IN PROGRESS)
+# About
 This directory contains scans of parts of the "Coleopterorum Catalogus" dealing with weevils, manually curated by Lutz Behne (25.4.1956 – 25.8.2024). When he scanned Literature, he took great care that every character in scientific names is correctly recognized, and if necessary he corrected them. **Thus, he ensured that his files are reliably searchable for scientific names.**\
 His work is also providing some **overview on the Coleopterorum Catalogus**: I did not find a full list of the issues (called "pars") dealing with Curculionoidea elsewhere. It's difficult to get an overview, as not everything is digitized on Biodiversity Heritage Library.
 
@@ -10,9 +10,9 @@ In short:
 - Historically, eponyms and patronyms (names honoring a person or place) were capitalized, but modern species names are always lowercase. This was not corrected consistently: when searching, make sure that capitalization is ignored
 
 There are two directories, which differ only in how the files are organized:
-- **./Junk_Concatenated** (some subfamilies are spread in several parts, those are concatenated into a single file here. Files are named after taxon only. There was an index to this directory in Behne's files, but I had to recreate the files as I didn't find the directory.)
-- **./Junk_Catalog** (files are numbered after the original "pars" number)
-- the file **./Bibliographic_List.pdf** was created by Lutz Behne. I did not check, but it seems to list every pars both of the "Coleopterorum Catalogus auspiciis et auxilio" and the "Coleopterorum Catalogus Supplementa".
+- **./Junk_Archive** (complete directory, files are numbered after the original "pars" number)
+- **./Junk_Concatenated** (some subfamilies are spread in several parts, those are concatenated into a single file here)
+- the file **./Bibliographic_List.pdf** was created by Lutz Behne. I did not check, but it seems to list every pars both of the "Coleopterorum Catalogus auspiciis et auxilio" and the "Coleopterorum Catalogus Supplementa", not only those dealing with weevils.
 
 ## General information on the Coleopterorum Catalogus
 There are two series: The original "Coleopterorum Catalogus auspiciis et auxilio" and later the "Coleopterorum Catalogus Supplementa", which where meant to keep the monumental work up to date.
@@ -32,7 +32,7 @@ Sources:\
 Klaus Rohlfien (1994): Sigmund Schenklings Konvolut und sein 'Faunistischer Führer durch die Coleopteren-Literatur'. – Beiträge zur Entomologie = Contributions to Entomology – 44: 157 - 166.
 
 ## Original readme by Lutz Behne
-The following is a translation of the original "readme" by Lutz Behne, a file which is named "Junk_Curculionoidea_Datierung_Kataloge.pdf" and was last modified 2006/03/27. I only changed minor details (like directory names). As I did not have the **./Junk_Concatenated** directory, I recreated it.
+The following is a translation of the original "readme" by Lutz Behne, a file which is named "Junk_Curculionoidea_Datierung_Kataloge.pdf" and was last modified 2006/03/27. I only changed minor details (like directory names). As I did not have the **./Junk_Concatenated** directory, I recreated it (but probably not complete).
 ### Coleopterorum Catalogus
 ##### (Curculionoidea, Vol. 27-30)
 
